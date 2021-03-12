@@ -1,0 +1,45 @@
+What's next for MochiSwap
+
+Yesterday we realeased MOCHI token and 3 yield farms with BNB-MOCHI, BUSD-MOCHI, and DOGE-MOCHI. Everything went well
+and we are seeing the same type of activity seen in a lot of yield-farm only token projects, initial excitement subsides
+and you have to figure out where to go next. Luckily, we started testing ideas for this project over 6 months ago 
+and have a pretty good idea of where we are going in the short term
+
+
+1. Relase 3 new pools
+  - Solo MOCHI staking
+  - ETH-MOCHI
+  - ADA-MOCHI
+  
+  We want to work with high-quality and high-liquidity assets. We think these are good examples and intend to curate our ecosystem to favor a smaller set of high quality assets than found in other farms and DEX platforms.
+
+2. Add timelock to chef contract.
+  We have already handed off ownership of the token contract to the chef contract and after we add the 3 pairs listed above we will be
+  moving ownership of the chef contract to a timelock contract that adds a 48-hour buffer to any administrative functions on the chef contract. This will prevent abuse of the migrator functionality by allowing users to see any modifications we make to the contracts
+  2 days before they go into effect.
+
+3. Deploy and test native DEX/liquidity pools.
+  We intend to develop and work with our own liquidity pools, which will allow us to make MOCHI the most high
+  yield DEX fee-paying asset on BSC and any othe chain we decide to deploy on,
+
+4. New website in addition to the existing farm site.
+
+5 Public roadmap
+
+6. Public token distribution transparency
+
+7. Burn?
+
+
+Make sure you always have the right Token addresses:
+
+MOCHI token https://bscscan.com/token/0x055daB90880613a556a5ae2903B2682f8A5b8d27
+Chef/farm contract: https://bscscan.com/address/0xA9C9D9Aed47320835c84090c62dC324FcF24f683
+
+LP1 MOCHI-BNB
+LP2 MOCHI-BUSD
+LP3 MOCHI-DOGE
+LP4 MOCHI-ETH
+LP5 MOCHI-ADA
+LP6 MOCHI-BTC
+
